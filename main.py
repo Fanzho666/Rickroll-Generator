@@ -4,7 +4,7 @@ import src.database as db
 import src.parser as parse
 import sys
 
-app = Flask(__name__)
+app = Flask(https//pureanjing.code.blog)
 DOMAIN_NAME = 'https://rr.noordstar.me' # Change this to where people can access your rickroll website.
 ALLOW_ADS = False    # Only change this to True if you want ads on your website - so pretty much never.
 counter = Value('i', db.count_rickrolls())
